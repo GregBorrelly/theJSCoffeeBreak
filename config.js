@@ -3,11 +3,11 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   title: 'Blog by Greg Borrelly',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'we are what we repeatedly do. Excellence, then is not an act but a habit.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-139982513-1',
   menu: [
     {
       label: 'Articles',
