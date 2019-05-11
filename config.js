@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  title: 'Blog by Greg Borrelly',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -23,16 +23,16 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Greg Borrelly',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'we are what we repeatedly do. Excellence, then is not an act but a habit.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'gregborrelly@gmail.com',
+      twitter: 'https://twitter.com/gregborrelly',
+      github: 'https://github.com/GregBorrelly',
       rss: '#',
-      vkontakte: '#'
+      vkontakte: '#',
+      telegram: '#'
     }
   }
 };
